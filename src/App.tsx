@@ -65,7 +65,7 @@ function App() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-20">
               <div className="flex items-center gap-3">
-                <img src="/src/imgs/dreamlogo.png" alt="Dream Portal Logo" className="w-12 h-12" />
+                <img src="https://image2url.com/images/1759735629445-be8b808c-2b2e-4c2e-8319-d69f43108809.png" alt="Dream Portal Logo" className="w-12 h-12" />
                 <span className="text-2xl font-light text-white tracking-wide hidden sm:block font-cinzel">Dream Portal</span>
               </div>
 
