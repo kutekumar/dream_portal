@@ -53,10 +53,8 @@ export function DreamInput({ onSubmit, isLoading }: DreamInputProps) {
   return (
     <div className="w-full max-w-4xl mx-auto">
       <div className="text-center mb-12">
-        <div className="inline-flex items-center justify-center w-20 h-20 mb-6 rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 animate-pulse">
-          <Sparkles className="w-10 h-10 text-white" />
-        </div>
-        <h1 className="text-5xl font-light text-white mb-4 tracking-wide">Dream Portal</h1>
+        <img src="/src/imgs/dreamlogo.png" alt="Dream Portal Logo" className="w-20 h-20 mb-6 mx-auto" />
+        <h1 className="text-5xl font-light text-white mb-4 tracking-wide font-cinzel">Dream Portal</h1>
         <p className="text-xl text-blue-200 font-light">Enter your dream and unlock its hidden meanings</p>
       </div>
 
